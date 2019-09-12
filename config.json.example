@@ -1,0 +1,7 @@
+{
+  "discord": {
+    "token": "some-token"
+  },
+  "saveList": true,
+  "listFileName": "guild_bank.json"
+}
